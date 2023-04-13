@@ -1,0 +1,1 @@
+Ilosc wczytanych wierszy z danymi 999 średnie wartosci dla kazdej z kolumn: kolumna2 = 12.226073 kolumna3 = 0.31589246 kolumna 4 = 51.013012 kolumna5 = 0.51581615
